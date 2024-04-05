@@ -1,0 +1,1 @@
+<?php define('DB_HOUST','localhost');define('DB_USER','law_dba');define('DB_PASS','5.{rQg;1^QDw');define('DB_NAME','law_agricopel');?>

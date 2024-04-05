@@ -1,0 +1,305 @@
+{
+    "headers": {
+        "Content-Length": "8614",
+        "Host": "fixtech.lawsmart.com.br",
+        "User-Agent": "Ruby",
+        "Accept": "*\/*",
+        "Accept-Encoding": "gzip;q=1.0,deflate;q=0.6,identity;q=0.3",
+        "Event": "auto_close",
+        "Content-Hmac": "sha256=dad28c09501f2b3beb0f05e11cf9c707c4ef3d9a3057e003541a5fa6f2902ed9",
+        "Content-Type": "application\/json"
+    },
+    "body": {
+        "event": {
+            "name": "auto_close",
+            "data": null,
+            "occurred_at": "2024-04-02T06:00:55.089-03:00"
+        },
+        "document": {
+            "key": "3e4f3f08-aabd-41e4-a56a-0e6e8af76743",
+            "account_key": "966c02f9-e32d-4f04-b1f0-f619f7560ade",
+            "path": "\/contratos\/contrato_08088938000893_1.pdf",
+            "filename": "contrato_08088938000893_1.pdf",
+            "uploaded_at": "2024-04-02T08:59:30.718Z",
+            "updated_at": "2024-04-02T09:00:55.029Z",
+            "finished_at": "2024-04-02T09:00:54.913Z",
+            "deadline_at": "2024-05-02T05:59:30.440-03:00",
+            "status": "closed",
+            "auto_close": true,
+            "locale": "pt-BR",
+            "metadata": [],
+            "sequence_enabled": false,
+            "signable_group": null,
+            "remind_interval": null,
+            "block_after_refusal": true,
+            "preview": true,
+            "downloads": {
+                "original_file_url": "https:\/\/clicksign-content-production.s3.amazonaws.com\/2024\/04\/02\/08\/59\/30\/892b560a-8d87-4395-bf25-19c87f3635c8\/contrato_08088938000893_1.pdf?X-Amz-Expires=299&X-Amz-Date=20240402T090056Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEC4aCXVzLWVhc3QtMSJHMEUCIEY8GIm6a3E%2BKkm5NTUUlRdwEMj%2BzyW4gJ5keTe25JCHAiEA25Rhc4DEwxGZilm%2ByWx4ab%2B2vg0gKKSurZLbG5KBT3kqswUIVxAAGgw2OTY5NzYzNjA5NjciDEaJrlbrSHZON07rkCqQBXaR1PxrLwAW3PlcJvEcfm8rG9WpjnLNNljA7iyPnlWBN8oX9DMEh1ePazpUtAcwnb6otyFT%2Bg6KmeEzNnpf5a89nQGN%2Bv%2BA6Z2St58CnRfC63b5g261dPzyYK7Vf7VHByRbIk5rRmw1fDqLqd13iVzkojWmr5NmamVWsXVXA%2BNJpiIwJmdLlYYE6CeVyg4QtCKpjaZeP99uPHUby3vtZdeQN6V2LxtUCg1aHKmfCUxp4UchpTRmmzIX4YWYb%2FngAJq0Sjhz7L0q9rB5p%2FSu%2FbgZRTWWzhK0xwglxQ8tG4iYFtOk0q%2FsIhBVd1FiS9%2FL%2F%2Bv1nKbAc4TV48qDCmBtozhlfCoRJ%2BwdzGYel3k5RjdHNKMLtSePIKCjl8Sm09rD3TEa4h%2FNC0j8Q74RK%2FPpstS7pWsJx7Ob3W1GhnL7jk3%2FW76DiFz6yBfDkq2GFEcYfl4LE%2BKYzP7frHISPp4djq%2FPStv6wiXB6q9d%2FETMdvcaa2mrcR1JSg1Xz%2F2zz7pr69SJ1uaRo4Ccyxj8lSW333rLKG0tXyo%2B1cl7vSYk5WeE5gs2YN0KiJettLrSmhP691XD6t4%2FeelSFYP%2FvA0bPGrBiqLkhriNwY6VvrSs%2FN%2BNJYcnUYhEBCZ5pg%2BLVmrmO1iv6nULVUVMLqcOuQ960vfJsUC4xgsXKRwpDRAbwHV8fLymJl8dcYsCPmjXnq3bfQ1PjXBU3%2FIBdIgGOXgwhQmHfV90wOPz4HVkwqCr2Rux4bsAep61nkS93jA2XXlglCO1zvrvRRmyl6xI8%2BuL5QwLw7wmkFNyOHgzpfNgGyee2so1%2BMgaoJbJok3gX5vGyeEHTq2Sc989o9R3l%2F6I2esY%2BOhQMvn5fieQAS0bqOKLMPC3rrAGOrEBVS%2Bui6D0QgUvIRrSHZ3Uw%2F1FVoWnxwvosaVZb6to9eE2xE2PYihmd6ppiN%2BrEZJNmSrMe2%2BMUXlFvQyouDneiEWTltCVWbgK2qkrFhVtYj%2BtImfuo6rImgmsdclODwKXcW8Dq%2Bv0DQx0kjYUt3EGU4nmPkjfwIFss0%2FjqWwQaN6uUKd%2Fm2B6t1na6NwwCU%2FFZK86TARKC2cW2WsH1d5bMJOf02SwAXaH9Gd2RuuQ%2F2vv&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDTWLKCWUH%2F20240402%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=17788111e78b332b48e8362d235b38716aff95f8b32a79e43c64839e3b7e0d1d"
+            },
+            "template": null,
+            "signers": [
+                {
+                    "list_key": "1ede445e-66a3-447a-95d4-d46bfb6a7def",
+                    "key": "3ea6fa43-e134-4f58-8fd1-dbbf87ae98dc",
+                    "request_signature_key": "572bb7bd-e7d9-4aa0-8b96-28ceeafab48a",
+                    "email": "cinque@lawsmart.com.br",
+                    "name": "MOACIR LUIZ FACHINI",
+                    "has_documentation": false,
+                    "documentation": null,
+                    "birthday": null,
+                    "phone_number": null,
+                    "sign_as": "party",
+                    "delivery": "none",
+                    "refusable": false,
+                    "url": "https:\/\/app.clicksign.com\/sign\/572bb7bd-e7d9-4aa0-8b96-28ceeafab48a",
+                    "auths": [
+                        "api"
+                    ],
+                    "created_at": "2024-03-14T01:52:31.671Z",
+                    "signature": {
+                        "name": "MOACIR LUIZ FACHINI",
+                        "email": "cinque@lawsmart.com.br",
+                        "birthday": null,
+                        "documentation": null,
+                        "validation": {
+                            "status": "cpf_empty",
+                            "name": "MOACIR LUIZ FACHINI"
+                        },
+                        "ip_address": "186.226.58.115",
+                        "signed_at": "2024-04-02T08:59:34.443Z",
+                        "sign_as": "party"
+                    }
+                },
+                {
+                    "list_key": "7f178c32-9fc3-40d2-a2f7-8f3e543a231e",
+                    "key": "bcc879de-8d6f-4796-8825-22c5ff73f1d6",
+                    "request_signature_key": "b0627df0-03ba-4ed4-a482-c44a131b98af",
+                    "email": "jme.jose.max@gmail.com",
+                    "name": "jose max",
+                    "has_documentation": true,
+                    "documentation": "080.403.229-79",
+                    "birthday": null,
+                    "phone_number": null,
+                    "sign_as": "party",
+                    "delivery": "email",
+                    "refusable": false,
+                    "url": "https:\/\/app.clicksign.com\/sign\/b0627df0-03ba-4ed4-a482-c44a131b98af",
+                    "auths": [
+                        "email"
+                    ],
+                    "created_at": "2024-04-02T08:59:31.966Z",
+                    "signature": {
+                        "name": "jose max",
+                        "email": "jme.jose.max@gmail.com",
+                        "birthday": "1994-04-01",
+                        "documentation": "080.403.229-79",
+                        "validation": {
+                            "status": "pending",
+                            "name": "jose max"
+                        },
+                        "ip_address": "138.118.31.128",
+                        "signed_at": "2024-04-02T09:00:54.723Z",
+                        "sign_as": "party"
+                    }
+                }
+            ],
+            "events": [
+                {
+                    "name": "auto_close",
+                    "data": null,
+                    "occurred_at": "2024-04-02T09:00:55.089Z"
+                },
+                {
+                    "name": "sign",
+                    "data": {
+                        "signer": {
+                            "sign_as": "party",
+                            "key": "bcc879de-8d6f-4796-8825-22c5ff73f1d6",
+                            "email": "jme.jose.max@gmail.com",
+                            "name": "jose max",
+                            "birthday": "1994-04-01",
+                            "documentation": "080.403.229-79",
+                            "has_documentation": true,
+                            "created_at": "2024-04-02T05:59:31.966-03:00",
+                            "auths": [
+                                "email"
+                            ],
+                            "selfie_enabled": false,
+                            "handwritten_enabled": false,
+                            "official_document_enabled": false,
+                            "liveness_enabled": false,
+                            "facial_biometrics_enabled": false,
+                            "communicate_by": "email",
+                            "list_key": "7f178c32-9fc3-40d2-a2f7-8f3e543a231e",
+                            "url": "https:\/\/app.clicksign.com\/sign\/b0627df0-03ba-4ed4-a482-c44a131b98af",
+                            "address": "138.118.31.128",
+                            "validation": {
+                                "status": "pending",
+                                "name": "jose max"
+                            },
+                            "selfie_name": null,
+                            "selfie_hash": null,
+                            "handwritten_hash": null,
+                            "handwritten_name": null,
+                            "official_document_front_hash": null,
+                            "official_document_back_hash": null,
+                            "official_front_name": "official_document_front_02 abr 2024, 06-00-54.png",
+                            "official_back_name": "official_document_back_02 abr 2024, 06-00-54.png",
+                            "read_receipts?": false
+                        },
+                        "secret_hmac": null,
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade",
+                            "timestamp_signature_functionality": false
+                        },
+                        "log_version": "1.801.0",
+                        "url": "https:\/\/app.clicksign.com"
+                    },
+                    "occurred_at": "2024-04-02T09:00:54.826Z"
+                },
+                {
+                    "name": "sign",
+                    "data": {
+                        "signer": {
+                            "sign_as": "party",
+                            "key": "3ea6fa43-e134-4f58-8fd1-dbbf87ae98dc",
+                            "email": "cinque@lawsmart.com.br",
+                            "name": "MOACIR LUIZ FACHINI",
+                            "birthday": null,
+                            "documentation": null,
+                            "has_documentation": false,
+                            "created_at": "2024-03-13T22:52:31.671-03:00",
+                            "auths": [
+                                "api"
+                            ],
+                            "selfie_enabled": false,
+                            "handwritten_enabled": false,
+                            "official_document_enabled": false,
+                            "liveness_enabled": false,
+                            "facial_biometrics_enabled": false,
+                            "communicate_by": "email",
+                            "list_key": "1ede445e-66a3-447a-95d4-d46bfb6a7def",
+                            "url": "https:\/\/app.clicksign.com\/sign\/572bb7bd-e7d9-4aa0-8b96-28ceeafab48a",
+                            "address": "186.226.58.115",
+                            "validation": {
+                                "status": "cpf_empty",
+                                "name": "MOACIR LUIZ FACHINI"
+                            },
+                            "selfie_name": null,
+                            "selfie_hash": null,
+                            "handwritten_hash": null,
+                            "handwritten_name": null,
+                            "official_document_front_hash": null,
+                            "official_document_back_hash": null,
+                            "official_front_name": "official_document_front_02 abr 2024, 05-59-34.png",
+                            "official_back_name": "official_document_back_02 abr 2024, 05-59-34.png",
+                            "read_receipts?": false
+                        },
+                        "secret_hmac": "d5acf0cc1a1e72e26c4852bfd5eb91794a1c78807fa2c1c5be32c31bc9b8213e",
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade",
+                            "timestamp_signature_functionality": false
+                        },
+                        "log_version": "1.801.0",
+                        "url": "https:\/\/app.clicksign.com"
+                    },
+                    "occurred_at": "2024-04-02T08:59:34.627Z"
+                },
+                {
+                    "name": "add_signer",
+                    "data": {
+                        "user": {
+                            "email": "gilberto@lawfinancas.com.br",
+                            "name": "Gilberto Eichenberg"
+                        },
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade"
+                        },
+                        "signers": [
+                            {
+                                "sign_as": "party",
+                                "key": "bcc879de-8d6f-4796-8825-22c5ff73f1d6",
+                                "email": "jme.jose.max@gmail.com",
+                                "name": "jose max",
+                                "birthday": null,
+                                "documentation": "080.403.229-79",
+                                "has_documentation": true,
+                                "created_at": "2024-04-02T05:59:31.966-03:00",
+                                "auths": [
+                                    "email"
+                                ],
+                                "selfie_enabled": false,
+                                "handwritten_enabled": false,
+                                "official_document_enabled": false,
+                                "liveness_enabled": false,
+                                "facial_biometrics_enabled": false,
+                                "communicate_by": "email",
+                                "list_key": "7f178c32-9fc3-40d2-a2f7-8f3e543a231e",
+                                "url": "https:\/\/app.clicksign.com\/sign\/bcc879de-8d6f-4796-8825-22c5ff73f1d6",
+                                "read_receipts?": false
+                            }
+                        ]
+                    },
+                    "occurred_at": "2024-04-02T08:59:32.518Z"
+                },
+                {
+                    "name": "add_signer",
+                    "data": {
+                        "user": {
+                            "email": "gilberto@lawfinancas.com.br",
+                            "name": "Gilberto Eichenberg"
+                        },
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade"
+                        },
+                        "signers": [
+                            {
+                                "sign_as": "party",
+                                "key": "3ea6fa43-e134-4f58-8fd1-dbbf87ae98dc",
+                                "email": "cinque@lawsmart.com.br",
+                                "name": "MOACIR LUIZ FACHINI",
+                                "birthday": null,
+                                "documentation": null,
+                                "has_documentation": false,
+                                "created_at": "2024-03-13T22:52:31.671-03:00",
+                                "auths": [
+                                    "api"
+                                ],
+                                "selfie_enabled": false,
+                                "handwritten_enabled": false,
+                                "official_document_enabled": false,
+                                "liveness_enabled": false,
+                                "facial_biometrics_enabled": false,
+                                "communicate_by": "email",
+                                "list_key": "1ede445e-66a3-447a-95d4-d46bfb6a7def",
+                                "url": "https:\/\/app.clicksign.com\/sign\/3ea6fa43-e134-4f58-8fd1-dbbf87ae98dc",
+                                "read_receipts?": false
+                            }
+                        ]
+                    },
+                    "occurred_at": "2024-04-02T08:59:31.422Z"
+                },
+                {
+                    "name": "upload",
+                    "data": {
+                        "user": {
+                            "email": "gilberto@lawfinancas.com.br",
+                            "name": "Gilberto Eichenberg"
+                        },
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade"
+                        },
+                        "deadline_at": "2024-05-02T05:59:30.440-03:00",
+                        "auto_close": true,
+                        "locale": "pt-BR"
+                    },
+                    "occurred_at": "2024-04-02T08:59:30.769Z"
+                }
+            ],
+            "attachments": [],
+            "links": {
+                "self": "\/accounts\/363337\/folders\/46712062\/documents\/3e4f3f08-aabd-41e4-a56a-0e6e8af76743"
+            }
+        }
+    }
+}

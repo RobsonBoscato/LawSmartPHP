@@ -1,0 +1,308 @@
+{
+    "headers": {
+        "X-Https": "1",
+        "Content-Length": "8747",
+        "Host": "lawsmart.com.br",
+        "User-Agent": "Ruby",
+        "Accept": "*\/*",
+        "Accept-Encoding": "gzip;q=1.0,deflate;q=0.6,identity;q=0.3",
+        "Event": "auto_close",
+        "Content-Hmac": "sha256=55e5f56075d66dca3657f8ee3b0841aa6d3785a6e581f7686c8b4d7bb5dcdc5f",
+        "Content-Type": "application\/json"
+    },
+    "body": {
+        "event": {
+            "name": "auto_close",
+            "data": null,
+            "occurred_at": "2024-03-06T10:30:16.591-03:00"
+        },
+        "document": {
+            "key": "f24883d4-456d-474c-932e-7125db88a962",
+            "account_key": "966c02f9-e32d-4f04-b1f0-f619f7560ade",
+            "path": "\/contratos\/contrato_82950460000145_18.pdf",
+            "filename": "contrato_82950460000145_18.pdf",
+            "uploaded_at": "2024-03-06T13:26:28.432Z",
+            "updated_at": "2024-03-06T13:30:16.514Z",
+            "finished_at": "2024-03-06T13:30:16.406Z",
+            "deadline_at": "2024-04-05T10:26:28.248-03:00",
+            "status": "closed",
+            "auto_close": true,
+            "locale": "pt-BR",
+            "metadata": [],
+            "sequence_enabled": false,
+            "signable_group": null,
+            "remind_interval": null,
+            "block_after_refusal": true,
+            "preview": true,
+            "downloads": {
+                "original_file_url": "https:\/\/clicksign-content-production.s3.amazonaws.com\/2024\/03\/06\/13\/26\/28\/4fa523f5-0647-4185-b8c4-9e1d8f8e2ef2\/contrato_82950460000145_18.pdf?X-Amz-Expires=299&X-Amz-Date=20240306T133017Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEKr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIGKRFVTjcEo69btHuPHYnNP52Xzns5zdU%2B2IdWd67Ft7AiB2lTTj9nHHwO9WI2ysMCFlBHHqRYj4xw2vjAB8yKQcxSq6BQij%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDY5Njk3NjM2MDk2NyIM1wAeGkCrMPD6qWwdKo4FkPrrKBHYNqgRlNzyTPi8uBk%2F31QwQBbEawpoYPZheGJbTYLruRSExpXtdAxqXycPhbF69BYpyT%2FcO9bPp6uUZqcs3omHFeqLej%2FZ1pLscpSw6hz38LWnfbPe3n4kqGBA3A6KD%2B6vTNjZjgR0l8e85w1zHRA7ciyTbg42qM1KlTirrkEPtg7i2pBhwkf%2F2KVr05ketJAKlRaJ399JCDWjQUPGBfacQEThoKgSP%2FLL2u4%2BQ5Cckxx6OEmN3Ts3W3RrzdJJi1xgQJCSCqvBFz7qpw7hS8YwWRTfAz97lkh6MN94PEFae5PlaNIRrsZflALUTs7H5QvMwTIoHuHymx04fLezlMh1l1NnRAoFvI4N7qG5QEgFDhQOTwEMDMjVcbAmm05DGXbEIENmFA%2BkFfxT1CIDN1VvoeGBkJyIWenJT3JWMJaa4D0h18P77LzhCG3JKlNxkPfJ17r8oFj4H0skmam7X95g9C%2BCov%2BY9s0gEIqhhcuUaNxtniHrY2LU84tDXrXuTSSRLLAW%2F8V9KdQZilaBvNzyrPPCXbmOuvA5M9J9nvUlp5pRJoxNCuQJI9WZIo0N0KURSfhWix2g8V%2BaMvGpC6c%2B3NZXBeFk%2FZKk7PkiInKshm6xSwhzFg21DNM2oOlK2vyVrrlyA8HtmFbUyRhNVem6xsrVcemRlgbpSFC20MpLDOc916pTm3H79Ig3m5LIVdldsIaeMKAZ9oXIkGwPqrl%2Bbn5B%2BQGlrQExm1G7OUqrt4ml4zDur%2F94H6lKxAnaNbXEEHGhnKWHphOUx0ptEX16RQwMSOTKBXa91phapih4LKslHNZtUDXng4kJw3cxnWL5E4ZCxoz6aRrgw%2BVEvP8JdyibzpfsQdIeMI77oK8GOrIB002ogVTnsBKXekf14%2Fphv2X5bl7bdnie2%2FO6QKOK7g3AVuzIm3rbdEeOLFASrbZbRgbIqGbezrqgaAuTkx3n3UR7b7KLv7Quu3vX2AXEeLfQ%2Fros2ZYk13Jw7a4pFAPJshYAD7Qfh%2BiTYO8IgEuxR7rqPGjeH5PwtYHkuRNiBXcQJN1TsthnH8llEaokBZT3Kngrd7QmpLqJKx9MENz4KE88p9yC%2BvkS%2FXeqyAKZTrh8rw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYD22DRCOM6%2F20240306%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=85ca19d4d65df07bc2cdfc44cbe949ecf3a27c3deb301a560b42237c751c2ef6"
+            },
+            "template": null,
+            "signers": [
+                {
+                    "list_key": "82376bd9-4465-4437-b43d-a0f85921b0d7",
+                    "key": "da8e1937-4f09-48bd-9f72-6a370f4c11f1",
+                    "request_signature_key": "92ca31ac-f69b-438f-8164-4702daac5cc6",
+                    "email": "gilberto@lawsecsa.com.br",
+                    "name": "Gilberto e.",
+                    "has_documentation": false,
+                    "documentation": null,
+                    "birthday": null,
+                    "phone_number": null,
+                    "sign_as": "party",
+                    "delivery": "none",
+                    "refusable": false,
+                    "url": "https:\/\/app.clicksign.com\/sign\/92ca31ac-f69b-438f-8164-4702daac5cc6",
+                    "auths": [
+                        "api"
+                    ],
+                    "created_at": "2022-11-23T18:24:25.060Z",
+                    "signature": {
+                        "name": "Gilberto e.",
+                        "email": "gilberto@lawsecsa.com.br",
+                        "birthday": null,
+                        "documentation": null,
+                        "validation": {
+                            "status": "cpf_empty",
+                            "name": "Gilberto e."
+                        },
+                        "ip_address": "186.226.58.115",
+                        "signed_at": "2024-03-06T13:26:31.284Z",
+                        "sign_as": "party"
+                    }
+                },
+                {
+                    "list_key": "a01471d3-8f5c-4b64-9597-614290ec9178",
+                    "key": "5a8aecd0-270d-4270-b724-2d531192778c",
+                    "request_signature_key": "8ca7736d-7f9f-4cdf-a649-45188b241b53",
+                    "email": "gilberto@lawfinancas.com.br",
+                    "name": "Gilberto Eichenberg",
+                    "has_documentation": true,
+                    "documentation": "051.603.129-51",
+                    "birthday": null,
+                    "phone_number": null,
+                    "sign_as": "party",
+                    "delivery": "email",
+                    "refusable": false,
+                    "url": "https:\/\/app.clicksign.com\/sign\/8ca7736d-7f9f-4cdf-a649-45188b241b53",
+                    "auths": [
+                        "icp_brasil"
+                    ],
+                    "created_at": "2024-03-05T02:13:01.098Z",
+                    "signature": {
+                        "name": "Gilberto Eichenberg",
+                        "email": "gilberto@lawfinancas.com.br",
+                        "birthday": "1988-08-06",
+                        "documentation": "051.603.129-51",
+                        "validation": {
+                            "status": "pending",
+                            "name": "Gilberto Eichenberg"
+                        },
+                        "ip_address": "179.190.111.230",
+                        "signed_at": "2024-03-06T13:30:16.174Z",
+                        "sign_as": "party"
+                    }
+                }
+            ],
+            "events": [
+                {
+                    "name": "auto_close",
+                    "data": null,
+                    "occurred_at": "2024-03-06T13:30:16.591Z"
+                },
+                {
+                    "name": "sign",
+                    "data": {
+                        "signer": {
+                            "sign_as": "party",
+                            "key": "5a8aecd0-270d-4270-b724-2d531192778c",
+                            "email": "gilberto@lawfinancas.com.br",
+                            "name": "Gilberto Eichenberg",
+                            "birthday": "1988-08-06",
+                            "documentation": "051.603.129-51",
+                            "has_documentation": true,
+                            "created_at": "2024-03-04T23:13:01.098-03:00",
+                            "auths": [
+                                "icp_brasil"
+                            ],
+                            "selfie_enabled": false,
+                            "handwritten_enabled": false,
+                            "official_document_enabled": false,
+                            "liveness_enabled": false,
+                            "facial_biometrics_enabled": false,
+                            "communicate_by": "email",
+                            "list_key": "a01471d3-8f5c-4b64-9597-614290ec9178",
+                            "url": "https:\/\/app.clicksign.com\/sign\/39be98f9-417f-40a3-8d26-1904bca476bf",
+                            "address": "179.190.111.230",
+                            "validation": {
+                                "status": "pending",
+                                "name": "Gilberto Eichenberg"
+                            },
+                            "selfie_name": null,
+                            "selfie_hash": null,
+                            "handwritten_hash": null,
+                            "handwritten_name": null,
+                            "official_document_front_hash": null,
+                            "official_document_back_hash": null,
+                            "official_front_name": "official_document_front_06 mar 2024, 10-30-16.png",
+                            "official_back_name": "official_document_back_06 mar 2024, 10-30-16.png",
+                            "certificate_type": "A3",
+                            "person_type": "e-cpf",
+                            "read_receipts?": false
+                        },
+                        "secret_hmac": null,
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade",
+                            "timestamp_signature_functionality": false
+                        },
+                        "log_version": "1.773.0",
+                        "url": "https:\/\/app.clicksign.com"
+                    },
+                    "occurred_at": "2024-03-06T13:30:16.310Z"
+                },
+                {
+                    "name": "sign",
+                    "data": {
+                        "signer": {
+                            "sign_as": "party",
+                            "key": "da8e1937-4f09-48bd-9f72-6a370f4c11f1",
+                            "email": "gilberto@lawsecsa.com.br",
+                            "name": "Gilberto e.",
+                            "birthday": null,
+                            "documentation": null,
+                            "has_documentation": false,
+                            "created_at": "2022-11-23T15:24:25.060-03:00",
+                            "auths": [
+                                "api"
+                            ],
+                            "selfie_enabled": false,
+                            "handwritten_enabled": false,
+                            "official_document_enabled": false,
+                            "liveness_enabled": false,
+                            "facial_biometrics_enabled": false,
+                            "communicate_by": "email",
+                            "list_key": "82376bd9-4465-4437-b43d-a0f85921b0d7",
+                            "url": "https:\/\/app.clicksign.com\/sign\/92ca31ac-f69b-438f-8164-4702daac5cc6",
+                            "address": "186.226.58.115",
+                            "validation": {
+                                "status": "cpf_empty",
+                                "name": "Gilberto e."
+                            },
+                            "selfie_name": null,
+                            "selfie_hash": null,
+                            "handwritten_hash": null,
+                            "handwritten_name": null,
+                            "official_document_front_hash": null,
+                            "official_document_back_hash": null,
+                            "official_front_name": "official_document_front_06 mar 2024, 10-26-31.png",
+                            "official_back_name": "official_document_back_06 mar 2024, 10-26-31.png",
+                            "read_receipts?": false
+                        },
+                        "secret_hmac": "c935cebaadd64e61bed5dad76b54cecfdb36c89e595c9c6730d4094a77b700a3",
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade",
+                            "timestamp_signature_functionality": false
+                        },
+                        "log_version": "1.773.0",
+                        "url": "https:\/\/app.clicksign.com"
+                    },
+                    "occurred_at": "2024-03-06T13:26:31.396Z"
+                },
+                {
+                    "name": "add_signer",
+                    "data": {
+                        "user": {
+                            "email": "gilberto@lawsecsa.com.br",
+                            "name": "Gilberto Eichenberg"
+                        },
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade"
+                        },
+                        "signers": [
+                            {
+                                "sign_as": "party",
+                                "key": "5a8aecd0-270d-4270-b724-2d531192778c",
+                                "email": "gilberto@lawfinancas.com.br",
+                                "name": "Gilberto Eichenberg",
+                                "birthday": null,
+                                "documentation": "051.603.129-51",
+                                "has_documentation": true,
+                                "created_at": "2024-03-04T23:13:01.098-03:00",
+                                "auths": [
+                                    "icp_brasil"
+                                ],
+                                "selfie_enabled": false,
+                                "handwritten_enabled": false,
+                                "official_document_enabled": false,
+                                "liveness_enabled": false,
+                                "facial_biometrics_enabled": false,
+                                "communicate_by": "email",
+                                "list_key": "a01471d3-8f5c-4b64-9597-614290ec9178",
+                                "url": "https:\/\/app.clicksign.com\/sign\/5a8aecd0-270d-4270-b724-2d531192778c",
+                                "read_receipts?": false
+                            }
+                        ]
+                    },
+                    "occurred_at": "2024-03-06T13:26:29.596Z"
+                },
+                {
+                    "name": "add_signer",
+                    "data": {
+                        "user": {
+                            "email": "gilberto@lawsecsa.com.br",
+                            "name": "Gilberto Eichenberg"
+                        },
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade"
+                        },
+                        "signers": [
+                            {
+                                "sign_as": "party",
+                                "key": "da8e1937-4f09-48bd-9f72-6a370f4c11f1",
+                                "email": "gilberto@lawsecsa.com.br",
+                                "name": "Gilberto e.",
+                                "birthday": null,
+                                "documentation": null,
+                                "has_documentation": false,
+                                "created_at": "2022-11-23T15:24:25.060-03:00",
+                                "auths": [
+                                    "api"
+                                ],
+                                "selfie_enabled": false,
+                                "handwritten_enabled": false,
+                                "official_document_enabled": false,
+                                "liveness_enabled": false,
+                                "facial_biometrics_enabled": false,
+                                "communicate_by": "email",
+                                "list_key": "82376bd9-4465-4437-b43d-a0f85921b0d7",
+                                "url": "https:\/\/app.clicksign.com\/sign\/da8e1937-4f09-48bd-9f72-6a370f4c11f1",
+                                "read_receipts?": false
+                            }
+                        ]
+                    },
+                    "occurred_at": "2024-03-06T13:26:29.043Z"
+                },
+                {
+                    "name": "upload",
+                    "data": {
+                        "user": {
+                            "email": "gilberto@lawsecsa.com.br",
+                            "name": "Gilberto Eichenberg"
+                        },
+                        "account": {
+                            "key": "966c02f9-e32d-4f04-b1f0-f619f7560ade"
+                        },
+                        "deadline_at": "2024-04-05T10:26:28.248-03:00",
+                        "auto_close": true,
+                        "locale": "pt-BR"
+                    },
+                    "occurred_at": "2024-03-06T13:26:28.469Z"
+                }
+            ],
+            "attachments": [],
+            "links": {
+                "self": "\/accounts\/363337\/folders\/46712062\/documents\/f24883d4-456d-474c-932e-7125db88a962"
+            }
+        }
+    }
+}

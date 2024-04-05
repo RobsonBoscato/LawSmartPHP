@@ -1,0 +1,1 @@
+<?php define('DB_HOUST','localhost');define('DB_USER','law_fintex');define('DB_PASS','ltr4fi@MPA*f');define('DB_NAME','law_elian');?>

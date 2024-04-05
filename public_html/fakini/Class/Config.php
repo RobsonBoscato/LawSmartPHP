@@ -1,0 +1,1 @@
+<?php define('DB_HOUST','localhost');define('DB_USER','law_fakini');define('DB_PASS','J6~[1K@UEjfE');define('DB_NAME','law_fakini');?>

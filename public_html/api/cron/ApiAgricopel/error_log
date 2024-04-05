@@ -1,0 +1,68 @@
+[07-Feb-2024 18:21:01 UTC] PHP Warning:  Undefined array key "Retorno" in /home/lawsmart/public_html/api/cron/ApiAgricopel/restClientes.php on line 98
+[07-Feb-2024 18:21:01 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/lawsmart/public_html/api/cron/ApiAgricopel/restClientes.php on line 98
+[07-Feb-2024 18:25:18 UTC] PHP Warning:  Undefined array key "Retorno" in /home/lawsmart/public_html/api/cron/ApiAgricopel/restClientes.php on line 98
+[07-Feb-2024 18:25:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/lawsmart/public_html/api/cron/ApiAgricopel/restClientes.php on line 98
+[22-Feb-2024 17:52:08 UTC] PHP Warning:  Undefined variable $pdo in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php on line 124
+[22-Feb-2024 17:52:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php on line 124
+[22-Feb-2024 17:52:30 UTC] PHP Warning:  Undefined variable $pdo in /home/law/public_html/api/cron/ApiAgricopel/restFornecedores.php on line 114
+[22-Feb-2024 17:52:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/law/public_html/api/cron/ApiAgricopel/restFornecedores.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/law/public_html/api/cron/ApiAgricopel/restFornecedores.php on line 114
+[22-Feb-2024 17:53:47 UTC] PHP Warning:  Undefined variable $pdo in /home/law/public_html/api/cron/ApiAgricopel/restFornecedores.php on line 114
+[22-Feb-2024 17:53:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/law/public_html/api/cron/ApiAgricopel/restFornecedores.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/law/public_html/api/cron/ApiAgricopel/restFornecedores.php on line 114
+[22-Feb-2024 17:59:59 UTC] PHP Warning:  Undefined variable $pdo in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php on line 124
+[22-Feb-2024 17:59:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php on line 124
+[22-Feb-2024 17:59:59 UTC] PHP Warning:  Undefined variable $pdo in /home/law/public_html/api/cron/ApiAgricopel/restFornecedores.php on line 114
+[22-Feb-2024 17:59:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/law/public_html/api/cron/ApiAgricopel/restFornecedores.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/law/public_html/api/cron/ApiAgricopel/restFornecedores.php on line 114
+[22-Feb-2024 18:01:28 UTC] PHP Warning:  Undefined variable $pdo in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php on line 124
+[22-Feb-2024 18:01:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php on line 124
+[22-Feb-2024 18:02:56 UTC] PHP Warning:  Undefined variable $pdo in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php on line 124
+[22-Feb-2024 18:02:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php on line 124
+[22-Feb-2024 18:02:56 UTC] PHP Warning:  Undefined variable $pdo in /home/law/public_html/api/cron/ApiAgricopel/restFornecedores.php on line 114
+[22-Feb-2024 18:02:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/law/public_html/api/cron/ApiAgricopel/restFornecedores.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/law/public_html/api/cron/ApiAgricopel/restFornecedores.php on line 114
+[22-Feb-2024 18:03:32 UTC] PHP Warning:  Undefined variable $pdo in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php on line 124
+[22-Feb-2024 18:03:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/law/public_html/api/cron/ApiAgricopel/restClientes.php on line 124
+[25-Feb-2024 00:06:29 UTC] PHP Warning:  Undefined variable $DADOSFORNECEDORa in /home/law/public_html/api/cron/ApiAgricopel/restFornecedoresDuplicatas.php on line 137
+[25-Feb-2024 00:06:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/law/public_html/api/cron/ApiAgricopel/restFornecedoresDuplicatas.php on line 137
+[25-Feb-2024 00:06:29 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/law/public_html/api/cron/ApiAgricopel/restFornecedoresDuplicatas.php:139
+Stack trace:
+#0 /home/law/public_html/api/cron/ApiAgricopel/restFornecedoresDuplicatas.php(139): date('d/m/Y', '2010-11-01')
+#1 {main}
+  thrown in /home/law/public_html/api/cron/ApiAgricopel/restFornecedoresDuplicatas.php on line 139
+[25-Feb-2024 00:48:14 UTC] PHP Warning:  Undefined variable $DADOSFORNECEDORa in /home/law/public_html/api/cron/ApiAgricopel/restFornecedoresDuplicatas.php on line 137
+[25-Feb-2024 00:48:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/law/public_html/api/cron/ApiAgricopel/restFornecedoresDuplicatas.php on line 137
+[25-Feb-2024 00:48:14 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/law/public_html/api/cron/ApiAgricopel/restFornecedoresDuplicatas.php:139
+Stack trace:
+#0 /home/law/public_html/api/cron/ApiAgricopel/restFornecedoresDuplicatas.php(139): date('d/m/Y', '2010-11-01')
+#1 {main}
+  thrown in /home/law/public_html/api/cron/ApiAgricopel/restFornecedoresDuplicatas.php on line 139
+[25-Feb-2024 00:52:15 UTC] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/law/public_html/api/cron/ApiAgricopel/restFornecedoresDuplicatas.php:139
+Stack trace:
+#0 /home/law/public_html/api/cron/ApiAgricopel/restFornecedoresDuplicatas.php(139): date('d/m/Y', '2010-11-01')
+#1 {main}
+  thrown in /home/law/public_html/api/cron/ApiAgricopel/restFornecedoresDuplicatas.php on line 139

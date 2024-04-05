@@ -1,0 +1,48 @@
+[24-Mar-2022 07:26:38 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/ancora/index.php on line 192
+[24-Mar-2022 07:26:38 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/ancora/index.php on line 192
+[24-Mar-2022 07:26:38 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/ancora/index.php on line 192
+[24-Mar-2022 07:27:02 America/Sao_Paulo] PHP Warning:  include(controle_sessao.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/ancora/index.php on line 2
+[24-Mar-2022 07:27:02 America/Sao_Paulo] PHP Warning:  include(controle_sessao.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/ancora/index.php on line 2
+[24-Mar-2022 07:27:02 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'controle_sessao.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/ancora/index.php on line 2
+[24-Mar-2022 07:27:02 America/Sao_Paulo] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/ancora/index.php on line 3
+[24-Mar-2022 07:27:02 America/Sao_Paulo] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/lawsmart/public_html/ancora/index.php on line 3
+[24-Mar-2022 07:27:02 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lawsmart/public_html/ancora/index.php on line 3
+[24-Mar-2022 07:27:02 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/ancora/index.php on line 196
+[24-Mar-2022 07:27:02 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/ancora/index.php on line 196
+[24-Mar-2022 07:27:02 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/ancora/index.php on line 196
+[24-Mar-2022 07:54:17 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/lawsmart/public_html/ancora/operacoes.php on line 1154
+[24-Mar-2022 08:06:02 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/lawsmart/public_html/ancora/operacoes.php on line 113
+[24-Mar-2022 08:08:55 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}' in /home/lawsmart/public_html/ancora/operacoes.php on line 113
+[24-Mar-2022 08:40:46 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/ancora/operacoes.php on line 312
+[24-Mar-2022 08:42:38 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/ancora/operacoes.php on line 312
+[24-Mar-2022 08:42:40 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/ancora/operacoes.php on line 312
+[24-Mar-2022 08:42:59 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/ancora/operacoes.php on line 312
+[24-Mar-2022 08:44:15 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/ancora/operacoes.php on line 312
+[24-Mar-2022 08:44:17 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/ancora/operacoes.php on line 312
+[26-May-2022 14:53:38 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/law/operacoes.php on line 85
+[26-May-2022 14:53:38 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/law/operacoes.php on line 85
+[26-May-2022 14:53:38 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/law/operacoes.php on line 85
+[07-Jun-2022 09:39:30 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/law/index.php on line 201
+[07-Jun-2022 09:39:30 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/law/index.php on line 201
+[07-Jun-2022 09:39:30 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/law/index.php on line 201
+[07-Jun-2022 09:39:37 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/law/ancoras.php on line 109
+[07-Jun-2022 09:39:37 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/law/ancoras.php on line 109
+[07-Jun-2022 09:39:37 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/law/ancoras.php on line 109
+[07-Jun-2022 09:39:42 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/law/ancoras.php on line 109
+[07-Jun-2022 09:39:42 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/law/ancoras.php on line 109
+[07-Jun-2022 09:39:42 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/law/ancoras.php on line 109
+[07-Jun-2022 09:39:44 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/law/operacoes.php on line 85
+[07-Jun-2022 09:39:44 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/law/operacoes.php on line 85
+[07-Jun-2022 09:39:44 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/law/operacoes.php on line 85
+[07-Jun-2022 09:39:45 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/law/index.php on line 201
+[07-Jun-2022 09:39:45 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/law/index.php on line 201
+[07-Jun-2022 09:39:45 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/law/index.php on line 201
+[07-Jun-2022 09:39:51 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/law/operacoes.php on line 85
+[07-Jun-2022 09:39:51 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/law/operacoes.php on line 85
+[07-Jun-2022 09:39:51 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/law/operacoes.php on line 85
+[07-Jun-2022 09:39:53 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/law/ancoras.php on line 109
+[07-Jun-2022 09:39:53 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/law/ancoras.php on line 109
+[07-Jun-2022 09:39:53 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/law/ancoras.php on line 109
+[07-Jun-2022 09:39:55 America/Sao_Paulo] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/lawsmart/public_html/law/index.php on line 201
+[07-Jun-2022 09:39:55 America/Sao_Paulo] PHP Warning:  mysql_query(): A link to the server could not be established in /home/lawsmart/public_html/law/index.php on line 201
+[07-Jun-2022 09:39:55 America/Sao_Paulo] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/lawsmart/public_html/law/index.php on line 201
